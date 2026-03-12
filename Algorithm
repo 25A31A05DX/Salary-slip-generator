@@ -1,0 +1,37 @@
+ALGORITHM – Salary Slip Generator
+
+1 . Start the program.
+
+2 . Declare a structure Employee with fields: id, name, designation, and basic salary.
+
+3 . Declare variables for HRA, DA, PF, Gross Salary, and Net Salary.
+
+4 . Input Employee ID from the user.
+
+5 . Input Employee Name from the user.
+
+6 . Input Employee Designation from the user.
+
+7 . Input Basic Salary from the user.
+
+8 . Calculate HRA as 20% of Basic Salary.
+
+9 . Calculate DA as 10% of Basic Salary.
+
+10. Calculate PF as 12% of Basic Salary.
+
+11. Calculate Gross Salary
+  * Gross = Basic + HRA + DA
+
+12. Calculate Net Salary
+  * Net = Gross – PF
+
+13. Open a file named salary_slip.txt in write mode.
+
+14. Write employee details and salary information into the file.
+
+15. Close the file after writing the data.
+
+16. Display a message: “Salary slip generated successfully”.
+
+17. End the program.
